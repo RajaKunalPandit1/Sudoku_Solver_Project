@@ -6,6 +6,11 @@ body{
 
 #container {
     text-align: center;
+     padding: 1em;
+}
+
+#sudokuBoard{
+    padding: 2em;
 }
 
 table{
