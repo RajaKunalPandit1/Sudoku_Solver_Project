@@ -65,14 +65,31 @@ td{
 }
 
 
-.footer{
+/* .footer{
     font-weight: bold;
     color: white;
     clear: both;
     position: relative;
     padding: 2em;
     padding-bottom: 1em;
+    background-color:  #1c2331; */
+    font-weight: bold;
+    /* clear: both; */
+    /* position: relative; */
+    /* margin-top: 25px; */
+    color: white;
+    padding: 2em;
+    padding-bottom: 1em;
     background-color:  #1c2331;
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /* background-color: red; */
+    /* color: white; */
+    text-align: center;
+
 }
 
 @media screen and (max-width: 800px){
