@@ -8,6 +8,10 @@ Hi there, This is my Sudoku Solver Project.
 
 • It is Responsive.
 
+<p>
+    <img src="https://github.com/RajaKunalPandit1/Sudoku_Solver_Project.github.io/assets/76692648/97fe6f7f-b800-49d9-a2a8-48cf5060b5a6" alt><br/>
+</p>
+
 • Revised and Explored Algorithms, and practiced a lot of web Stuff.
 
 • Let's trick the Backtracking Algorithm @ https://rajakunalpandit1.github.io/Sudoku_Solver_Project.github.io/ 
