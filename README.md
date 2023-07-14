@@ -1,4 +1,4 @@
-# Sudoku_Solver_Project [Live](https://rajakunalpandit1.github.io/Sudoku_Solver_Project.github.io/)
+# Sudoku_Solver_Project [(Live)](https://rajakunalpandit1.github.io/Sudoku_Solver_Project.github.io/)
 
 Hi there, This is my Sudoku Solver Project.
 
@@ -14,4 +14,3 @@ Hi there, This is my Sudoku Solver Project.
 
 • Revised and Explored Algorithms, and practiced a lot of web Stuff.
 
-• Let's trick the Backtracking Algorithm @ https://rajakunalpandit1.github.io/Sudoku_Solver_Project.github.io/ 
